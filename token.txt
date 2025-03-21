@@ -1,1 +1,1 @@
-my_ultra_super_secret_token = tokenhoge120517itissuperdangeroustouploadpublicspace
+my_ultra_super_secret_token = ghp_fakepat12345678901234567890abcdefg
