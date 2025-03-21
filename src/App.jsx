@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+      <div>テストテスト</div>
       <h1>Gitの練習用のアプリです！</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
